@@ -1,0 +1,29 @@
+ my-project/
+│
+├── docs/             
+│   ├── index.md     
+│   ├── installation.md  
+│   └── contributing.md  
+│
+├── data/            
+│   ├── src 
+│   │   ├── 2021.las
+│   │   └── 2050.las
+│   ├── input 
+│   │   ├── 2021_building.shp
+│   │   └── 2050_building.shp
+│   ├── model_outputs
+│   │   └── output.csv
+│
+├── scripts/         
+│   ├── clean_input_data.R
+│   ├── CHM.R
+│   ├── tree_segmentation.R
+│   └── habitat_suitability.R  
+│
+├── figs/             
+│   └── boxplot.png.md  
+│
+├── .gitignore       
+├── README.md        
+├── LICENSE          

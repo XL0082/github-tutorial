@@ -1,19 +1,14 @@
 ## github-tutorial
 Hello! This is the testing repo for 599 where students will submit their test branch 🚀
 
-Now that you're here...
-Please follow the steps below: 
+How can Minetest be used to simulate urban development and its impact on the decline of green space on the University of British Columbia campus?
 
-1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.) 
-2. Create a new Branch called "LASTNAME_FIRSTNAME_branch"
-3. Publish your new Branch - say "yes I want to make this a fork" since you won't have write access to the repo
-4. Set up a file organization structure for a new project
-5. Add a README file called "README_LASTNAME_FIRSTNAME.md" and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? Change the font? add in your contact info?)
-6. Commit changes
-7. Push Changes to remote origin
-8. Take a screenshot of your GitHub forked repo with your README and template folders 
-9. You will receive a participation grade based on the existence of this branch with your README :) 
+This project explores the potential of Minetest as a tool for simulating urban development scenarios and assessing its impact on Habitat Suitability for Birds and Small mammals on the UBC campus. The study integrates spatial modeling techniques and interactive 3D visualization to analyze land use changes over time.
 
-**You will receive a participation grade based on the existence of this branch with your README :)**
+Develop a spatially accurate Minetest environment representing the UBC campus.
 
-testing commmits
+Simulate various urban expansion scenarios and their effects on green space.
+
+Assess the utility of Minetest as a participatory planning tool.
+
+Compare Minetest-generated outputs with GIS-based urban planning models.
